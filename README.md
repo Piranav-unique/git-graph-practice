@@ -1,8 +1,5 @@
-# Git Graph Practice
+## Features
 
-My first Git repository.
-
-Learning:
-- Commits
-- Branches
-- Merging
+- Learning Git commits
+- Understanding branches
+- Visualizing history with Git Graph
